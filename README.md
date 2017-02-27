@@ -3,16 +3,16 @@
 #FRAMEWORK
 
 Aquesta aplicació tracta de registrar usuaris mitjançant l'entrada de dades.
-Al executar l'aplicació es mostra el primer menú on es selecciona el tipus d'usuari (Administrador, Client, Normal i Opcions.
+Al executar l'aplicació es mostra el primer menu on es selecciona el tipus d'usuari (Administrador, Client, Normal i Opcions).
 
 **Usuaris**
 ------
 
-  + **Administrador**:
++ **Administrador**:
 un usuari administrador fa referència a aquell que pot accedir a la caixa blanca del programa.
 + **Client**:
 un ususari client es aquell que es registra al sistema, te descomptes i privilegis que no te un usuari normal i s'ha de registrar mitjançant el correu electrònic però no pot accedir a la caixa blanca del programa.
-  + **Normal**:
++ **Normal**:
 un usuari normal introdueix les seues dades per accedir al sistema però no arriba a registrar-se mitjançant un correu electrònic i per tant no pot accedir a descomptes i beneficis.
 
 **CRUD**
